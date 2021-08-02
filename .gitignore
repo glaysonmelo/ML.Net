@@ -3,3 +3,8 @@
 ################################################################################
 
 /SentimentAnalysis/obj
+/SentimentAnalysis/bin/Debug/netcoreapp3.1
+/.vs/ML.Net/v16
+/TimeSeriesForecasting/.vs/TimeSeriesForecasting
+/TimeSeriesForecasting/bin/Debug/netcoreapp3.1
+/TimeSeriesForecasting/obj
